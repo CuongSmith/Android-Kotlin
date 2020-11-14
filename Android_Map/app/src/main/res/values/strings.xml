@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Maps</string>
+    <string name="name">Name:</string>
+    <string name="lagitude">Lagitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="images">Images</string>
+</resources>

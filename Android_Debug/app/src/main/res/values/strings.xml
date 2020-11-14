@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">debug_app</string>
+    <string name="s_th_nh_t">Số thứ nhất</string>
+    <string name="s_th_hai">Số thứ hai</string>
+    <string name="add">ADD</string>
+    <string name="sub">SUB</string>
+    <string name="mul">MUL</string>
+    <string name="div">DIV</string>
+    <string name="_0">0</string>
+</resources>

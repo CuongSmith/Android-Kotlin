@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Recycle View</string>
+    <string name="locations">Locations</string>
+    <string name="name">Name:</string>
+    <string name="csplus">CSplus</string>
+    <string name="lagitude">Lagitude:</string>
+    <string name="_40_7579787">51.4925888</string>
+    <string name="longitude">Longitude:</string>
+    <string name="_73_9877313">7.4518574</string>
+    <string name="load_image">Load Image</string>
+    <string name="name1">Name:</string>
+    <string name="lagitude1">Lagitude:</string>
+    <string name="longitude1">Longitude:</string>
+    <string name="images">Images</string>
+    <string name="addimage">ADD IMAGE</string>
+</resources>

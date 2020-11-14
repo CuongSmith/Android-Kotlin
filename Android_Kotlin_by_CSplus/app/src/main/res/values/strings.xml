@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Kotlin_code_by_CSplus</string>
+    <string name="locations">Locations</string>
+    <string name="name">Name:</string>
+    <string name="lagitude">Lagitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="loadimage">Load Image</string>
+    <string name="nameview">Name:</string>
+    <string name="lagitudeview">Lagitude:</string>
+    <string name="longitudeview">Longitude:</string>
+    <string name="images">Images</string>
+    <string name="csplus">CSplus</string>
+    <string name="_20_9997781">20.9997781</string>
+    <string name="_105_8169562">105.8169562</string>
+</resources>

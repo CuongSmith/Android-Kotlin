@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Load Image</string>
+    <string name="locations">Locations</string>
+    <string name="name">Name: </string>
+    <string name="latidue">Latidue: </string>
+    <string name="longidue">Longidue: </string>
+    <string name="loadImage_button">Load Image</string>
+</resources>
