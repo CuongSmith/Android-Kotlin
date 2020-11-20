@@ -4,4 +4,7 @@
     <string name="lagitude">Lagitude:</string>
     <string name="longitude">Longitude:</string>
     <string name="images">Images</string>
+    <string name="do_you_want_to_clear_points">Do you want to clear points</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
 </resources>

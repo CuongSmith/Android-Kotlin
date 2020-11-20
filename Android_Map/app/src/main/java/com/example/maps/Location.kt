@@ -1,10 +1,10 @@
 package com.example.maps
 
 class Location() {
-    var name: String
-    var lagitude: String
-    var longitude: String
-    var link: String
+    var name: String? = null
+    var lagitude: String? = null
+    var longitude: String? = null
+    var link: String? = null
 
     constructor(name: String?, lagitude: String?, longitude: String?, link: String?) : this() {
         this.name = if (name != null) name else ""
@@ -13,10 +13,10 @@ class Location() {
         this.link = if (link != null) link else ""
     }
 
-    init {
-        name = ""
-        lagitude = ""
-        longitude = ""
-        link = ""
-    }
+//    init {
+//        name = ""
+//        lagitude = ""
+//        longitude = ""
+//        link = ""
+//    }
 }
